@@ -11,7 +11,7 @@ pip install googletrans==4.0.0-rc1
 ```
 Import the needed library from Google Translate:
 
-> from googletrans import Translator
+`from googletrans import Translator`
 
 
 
